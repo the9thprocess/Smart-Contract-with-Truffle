@@ -1,4 +1,4 @@
-# Smart-Contract-with-Truffle
+# Smart-Contract-with-Truffle (CS 59000-03)
 ## Topics Covered
 ### 1.Installation, Contract Creation
 ### 2.Migrations, Deployment
